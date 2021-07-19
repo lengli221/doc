@@ -16,7 +16,7 @@
 #### 使用说明
 
 20210717 17:14
-1.  文档github_gitee_use_course.docx介绍如何使用git操作github gitee
+1.  文档github_gitee_use_course.docx介绍如何使用git操作github gitee 
 
 2.  xxxx
 3.  xxxx
